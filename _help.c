@@ -4,7 +4,7 @@
 /**
  * read_line - print a line of fd
  * @fd: file descriptor
- * @line: line of text
+ * @line: line
  * Return: execution of read_line: 1 if success
  */
 int read_line(const int fd, char **line)
