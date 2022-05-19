@@ -3,7 +3,7 @@
 /**
  * parse_user_input - Buidls an array of strings as arguments
  * @str_input: Command input given by the user
- * @delimiter: String od chars indicating the delimiters
+ * @delimiter: String od chars indicating
  *
  * Return: Array of strings
 */
