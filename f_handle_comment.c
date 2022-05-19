@@ -4,7 +4,7 @@
  * handle_comment - deletes a comment from the buffer
  * @str_input: User's input
  *
- * Return: pointer to string
+ * Return: pointer to strings
  */
 char *handle_comment(char *str_input)
 {
