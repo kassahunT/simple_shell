@@ -70,7 +70,7 @@ int _cd(char *path);
 int _alias(char **commands);
 int _help(char **commands);
 int _history(void);
-/* helper global vars builtin functions */
+/* helper global vars  arre  builtin functions */
 list_t **get_alias_head();
 list_t **get_history_addrss();
 list_t **get_last_cmd_addrss();
