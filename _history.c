@@ -1,6 +1,6 @@
 #include "shell.h"
 
-/* Global variables */
+/* Global variables nit*/
 static int no_init_history;
 static list_t *history_head;
 static list_t *last_cmd;
